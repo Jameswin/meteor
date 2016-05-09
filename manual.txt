@@ -2,3 +2,7 @@ This is the first file on github of mine.
 I 'd like to know what can i do this in github.
 I hope your will help me.
 Good!
+
+As this is branch for manual-edits branch, I added some lines to this file.
+I will check whether this is really good for this.
+Thanks.
